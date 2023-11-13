@@ -1,0 +1,12 @@
+{
+  "ver": "1.0.1",
+  "importer": "ttf-font",
+  "imported": true,
+  "uuid": "fd0263cd-5cb0-4874-936a-29e835969e65",
+  "files": [
+    ".json",
+    "flappybird.ttf"
+  ],
+  "subMetas": {},
+  "userData": {}
+}
